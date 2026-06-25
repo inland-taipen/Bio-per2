@@ -1,0 +1,574 @@
+India Beyond Constraint | White Paper for Government of India  
+Page 1 of 13 
+ WHITE PAPER FOR THE GOVERNMENT OF INDIA  
+ 
+India Beyond Constraint  
+A National Resilience and Future-Readiness Architecture for India  
+Converting oil vulnerability, geopolitical uncertainty, AI disruption and public aspiration into Sustainable 
+Abundance  
+ 
+Secure oil. Shrink oil. Replace oil. Transcend oil.  
+ 
+Author Shailesh Haribhakti  
+Basis 20-day LinkedIn public dialogue: India Beyond Constraint, 
+with comments and suggestions from board leaders, 
+entrepreneurs, CFOs, energy professionals, technologists, 
+MSME advocates and citizens  
+Purpose Submission -ready policy white paper for Government of 
+India, State Governments, PSUs, large companies and 
+MSMEs 
+Time horizon  100 days, 3 years, 2030 and 2035  
+Conflict posture  Outcome -agnostic preparedness regardless of escalation, 
+stalemate or de-escalation in the Iran-U.S. conflict  
+Date June 2026 
+ 
+Draft for policy consideration and inter-ministerial consultation  
+  India Beyond Constraint | White Paper for Government of India  
+Page 2 of 13 
+ Contents 
+1. Executive Summary 
+2. Why This White Paper Now 
+3. What the 20-Day Public Dialogue Revealed 
+4. The Geopolitical-Energy Risk Map 
+5. National Doctrine: Secure, Shrink, Replace, Transcend 
+6. The Government of India Agenda: Twelve National Missions 
+7. State Governments as the Execution Engine 
+8. PSUs as Transformation Platforms 
+9. Large Companies and MSMEs: From Fragility to Exponentiality 
+10. Implementation Architecture: 100 Days to 2035 
+11. Dashboard, KPIs and Board/Government Risk Register 
+12. Draft Government Resolution 
+Appendix A. Day-wise Synthesis of Posts and Public Comments 
+Appendix B. References 
+  India Beyond Constraint | White Paper for Government of India  
+Page 3 of 13 
+ 1. Executive Summary 
+India is not facing an oil crisis alone. India is facing a systems-design moment. The 20-day LinkedIn 
+public dialogue titled India Beyond Constraint began with a simple proposition: a great nation is not defined 
+by the shocks it suffers, but by the systems it builds after those shocks. The series and its public comments 
+repeatedly converged on one conclusion: India must move from reaction to design, from dependence to 
+optionality, from optionality to sovereignty, and from sovereignty to Sustainable Abundance. [11] 
+This white paper recommends an outcome-agnostic strategy. Regardless of whether the Iran-U.S. 
+conflict escalates, stabilises, mutates into a long contest of sanctions and maritime risk, or recedes 
+temporarily, India should treat the moment as a catalyst to build permanent resilience. The objective is not 
+to predict the conflict. The objective is to ensure that no conflict can disproportionately determine India’s 
+growth destiny. 
+One-line conclusion 
+India must secure oil for the present, reduce oil intensity for the decade, and 
+redesign its economy so that imported hydrocarbons steadily lose their power over 
+India’s future.  
+Ten recommended national decisions 
+Create a National Energy and Geoeconomic Resilience Council chaired at the highest level, integrating petroleum, 
+power, renewable energy, finance, commerce, shipping, external affairs, agriculture, heavy industry, MSME, skill 
+development, electronics, defence and state representatives. 
+Establish an India-Fujairah and Global Energy Optionality Corridor, combining overseas storage rights, priority 
+berthing, digital cargo visibility, strategic crude/product positioning and India-Gulf green-molecule partnerships. 
+Build a National Chokepoint and Supply-Chain Risk Dashboard covering Hormuz, Bab el-Mandeb, Suez, Malacca, 
+South China Sea, Red Sea, Black Sea and critical mineral routes. 
+Mandate oil, LNG, freight and insurance stress testing for PSUs and large energy-intensive companies; encourage 
+simplified stress-testing templates for MSMEs and banks. 
+Convert the Asset Monetisation Plan into a National Future Fund model where proceeds are ring-fenced for 
+strategic reserves, firm green power, AI compute, critical minerals, R&D, defence technology, biorefineries, 
+skilling and ports/logistics. 
+Adopt Disinvestment with Dharma: distinguish sovereign assets, public-purpose assets, commercial assets and 
+dormant assets; use independent valuation, public dashboards, CAG/parliamentary oversight and ring-fenced 
+proceeds. 
+Launch a 10X R&D and Commercialisation Mission focused on energy storage, applied AI, semiconductors, power 
+electronics, green hydrogen, biorefineries, robotics, cybersecurity, materials, defence and climate resilience. 
+Make AI the operating system of India: public AI assistants in Indian languages, AI-native governance, AI 
+procurement flags, AI-enabled MSMEs, responsible AI guardrails, and state-level AI mission cells. 
+Create an MSME AI Stack and MSME Energy Shield: compliance, exports, quality, design, finance, energy audit, 
+green power aggregation and logistics visibility as a public digital utility. 
+Build a National Energy Transition Skill Stack across ITIs, engineering colleges, skill universities, agriculture 
+universities and industry to train millions for solar, EVs, batteries, hydrogen, biogas, robotics, AI auditing and 
+cyber resilience. 
+Policy stance 
+The approach should be neither panic nor complacency. India should prepare as if energy disruption can 
+occur, invest as if technology abundance is possible, govern as if public trust is the only durable currency, 
+and execute as if 2035 is tomorrow. India Beyond Constraint | White Paper for Government of India  
+Page 4 of 13 
+ 2. Why This White Paper Now 
+The immediate trigger is geopolitical uncertainty. The deeper reason is structural vulnerability. India’s 
+growth, inflation, fiscal room, logistics, fertilisers, OMC balance sheets, airlines, petrochemicals, MSMEs 
+and household consumption remain exposed to imported energy, maritime chokepoints, dollar-
+denominated commodities and global insurance premia. 
+2.1 Hormuz is a warning, not merely a waterway 
+The International Energy Agency identifies the Strait of Hormuz as one of the world’s most critical oil 
+transit chokepoints. IEA states that in 2025 an average of 20 million barrels per day of crude oil and oil 
+products moved through the Strait, representing around 25% of world seaborne oil trade, with 80% destined 
+for Asia. It also notes that China and India combined received 44% of crude exports transiting the Strait, and 
+that alternative crude export capacity through Saudi and UAE routes is limited to an estimated 3.5 to 5.5 
+million barrels per day. [1] 
+The gas exposure is also serious. The same IEA factsheet notes that nearly all LNG exports from Qatar and 
+the UAE transit Hormuz, that this equated to almost 20% of global LNG trade in 2025, and that Bangladesh, 
+India and Pakistan imported almost two-thirds of their LNG supplies via the Strait in 2025. [1] 
+2.2 Reserves are necessary, but not sufficient 
+India has already built strategic crude oil storage. ISPRL notes that Government of India decided to set up 
+5 million metric tonnes of strategic crude oil storages at Visakhapatnam, Mangalore and Padur to serve as a 
+cushion during supply disruptions. [2] But a country of India’s scale needs layered resilience: domestic 
+strategic reserves, commercial inventories, overseas contracted storage, diversified suppliers, alternate 
+routes, demand flexibility and accelerated oil displacement. 
+2.3 The transition base is strong 
+India has made substantial progress in clean energy. MNRE reported cumulative installed renewable 
+energy capacity of 279.26 GW and total non-fossil capacity of 288.04 GW as on 30 April 2026. Solar stood at 
+154.24 GW, wind at 56.44 GW, large hydro at 51.41 GW and nuclear at 8.78 GW. [3] This gives India a 
+platform; the next challenge is to make clean power firm, low-cost, investible and accessible to industry and 
+MSMEs. 
+2.4 AI and public digital infrastructure can compress time 
+India is no longer beginning from zero. The IndiaAI Mission was approved with a budget outlay of Rs. 
+10,371.92 crore and aims to democratise compute access, improve data quality, develop indigenous AI 
+capabilities, support startups, build safe and trusted AI tools, and establish compute infrastructure of 
+10,000 or more GPUs through public-private partnership. [4] 
+2.5 Public balance sheet can fund future capability 
+The Union Budget 2025-26 proposed a second Asset Monetisation Plan for 2025-30 to plough back 
+capital of Rs. 10 lakh crore into new projects. [5] The 20-day public dialogue strongly supported the 
+principle of asset recycling, provided proceeds are transparent, ring-fenced and visibly used for long-term 
+public capability, not routine expenditure. [11] 
+3. What the 20-Day Public Dialogue Revealed 
+The 20-day campaign was not merely content publication; it functioned as a public consultation with 
+practitioners. The comments came from independent directors, CFOs, former PSU executives, energy 
+professionals, cyber specialists, entrepreneurs, skilling advocates, board advisors, MSME advocates, India Beyond Constraint | White Paper for Government of India  
+Page 5 of 13 
+ manufacturing leaders and citizens. Their responses converted the original storyline into a more 
+implementation-oriented white paper. [11] 
+3.1 Ten convergent messages from the comments 
+Public dialogue theme  Policy meaning  
+Mindset shift  Citizens, politicians, bureaucrats, entrepreneurs and 
+professionals must co-create a sustainable future rather 
+than wait for centralised direction.  
+Execution discipline  India does not lack ideas, talent or ambition; the real 
+constraint is speed, coordination and long-term policy 
+continuity.  
+Energy dependence into innovation leadership  Energy vulnerability can be converted into leadership in 
+renewables, storage, EVs, green hydrogen, green 
+manufacturing and biofuels.  
+Portfolio resilience  Fujairah is important, but overseas energy resilience should 
+be a portfolio of trusted nodes, storage rights, berthing 
+clauses and digital cargo visibility.  
+Board-level risk governance  Oil, LNG, freight and maritime chokepoints must enter ERM 
+dashboards, risk registers and board stress tests.  
+Public trust in monetisation  Asset monetisation and disinvestment will succeed only if 
+purpose, process and proceeds are separated and made 
+transparent.  
+R&D outcomes, not only spending  Boards should mandate R&D intensity, but also insist on 
+shipped products, patents that matter, commercialisation 
+and global competitiveness.  
+Global factories with domestic benefit  Indian outward manufacturing must strengthen domestic 
+suppliers, technology, skills, foreign exchange and 
+resilience, not hollow out India.  
+AI with trust  AI must be inclusive, multilingual, affordable, governed by 
+ethics, supported by cybersecurity, and focused on 
+outcomes for ordinary citizens.  
+Skilling as destiny  The demographic dividend will become a civilisational force 
+only if education, industry, technology and quality jobs are 
+coordinated.  
+ 
+The public dialogue repeatedly asked that this thought process move from inspiration to 
+execution. This white paper is therefore designed not as an essay, but as an 
+implementation architecture. 
+4. The Geopolitical-Energy Risk Map 
+The white paper treats risk as a design input. India needs to assume multiple conflict outcomes and build 
+resilience that is useful under each scenario. 
+4.1 Conflict-outcome scenarios 
+Scenario Iran-U.S./West Asia 
+trajectory Energy impact  India risk Policy posture  
+A. De-escalation Diplomatic cooling, sea 
+lanes open Risk premium declines 
+but vulnerability remains  Complacency risk  Do not slow structural 
+reforms India Beyond Constraint | White Paper for Government of India  
+Page 6 of 13 
+ B. Managed volatility Periodic attacks/threats 
+but no full closure  Insurance, freight and 
+crude volatility  Inflation and OMC 
+pressure Activate dashboards and 
+stress tests  
+C. Prolonged disruption  Tankers reroute or slow; 
+LNG/exports affected  Oil/LNG spot price 
+spikes and logistics 
+delays Fertiliser, airlines, 
+MSMEs and power 
+exposed Use reserves, demand 
+response, targeted 
+support 
+D. Severe chokepoint 
+crisis Extended closure or 
+near-closure risk  Physical shortage and 
+price shock  Macro, fiscal, trade and 
+social stress  Emergency energy 
+protocol and diplomacy  
+E. Settlement with 
+sanctions shifts  Supply realignment and 
+financial restrictions 
+change Source-country and 
+payment risks evolve  Compliance, banking 
+and refining risk  Flexible procurement 
+and sanctions 
+monitoring 
+4.2 Systemic transmission channels 
+ Energy price channel: crude, products, LNG, LPG, naphtha, petrochemicals, fertilisers. 
+ Maritime channel: tanker availability, war-risk premium, insurance, berthing and voyage delays. 
+ Financial channel: rupee pressure, current account, OMC under-recoveries, working capital and credit risk. 
+ Industrial channel: power cost, feedstock cost, logistics cost, inventory uncertainty and export 
+competitiveness. 
+ Household channel: transport inflation, food prices, LPG impact and consumption compression. 
+ State channel: VAT revenue, public transport, DISCOM stress, agriculture logistics and MSME employment. 
+ Technology channel: AI, batteries, power electronics, critical minerals and cyber risk as strategic 
+dependencies. 
+4.3 India’s risk register 
+Risk Severity Primary exposure  Mitigation architecture  
+Hormuz oil/LNG disruption  Very High GOI, OMCs, refiners, fertiliser, 
+power, industry  Energy security dashboard, 
+storage, alternate routes, 
+diplomacy, demand response  
+Oil price above stress threshold  Very High Fiscal system, households, 
+companies, MSMEs  Board stress tests, targeted 
+relief, EV/rail/coastal shift, 
+efficiency 
+Shipping and insurance premia  High Importers/exporters/logistics  Maritime risk pooling, route 
+diversification, India flag/tanker 
+capacity 
+Critical mineral and battery 
+dependence  High EVs, renewables, electronics  Critical minerals mission, 
+recycling, overseas assets, 
+substitutes 
+Slow firming of renewables  High Industry, states, DISCOMs, data 
+centres Storage, pumped hydro, 
+transmission, TOD tariffs, 
+DISCOM reform  
+R&D-commercialisation gap  High National innovation system  Outcome -linked R&D funding, 
+university-industry-PSU 
+consortia 
+AI trust failure  Medium-High Citizens, government, 
+companies Safe AI standards, audit, cyber, 
+privacy, explainability  
+MSME energy and compliance 
+fragility High Employment, exports, banks  MSME AI Stack, Energy Shield, 
+cluster finance  
+Demographic dividend under -
+trained Very High Youth, states, social stability National Energy Transition Skill 
+Stack 
+5. National Doctrine: Secure, Shrink, Replace, Transcend 
+The 20-day dialogue produced a four-part doctrine. It is intentionally simple enough for public 
+communication and strategic enough for policy architecture. India Beyond Constraint | White Paper for Government of India  
+Page 7 of 13 
+ Secure oil  Shrink oil Replace oil  Transcend oil  
+Strategic reserves, overseas 
+storage, diversified suppliers, 
+Fujairah/Oman/Saudi routes, 
+tanker and insurance resilience, 
+real-time dashboards.  Efficiency, logistics redesign, 
+public transport, rail and 
+coastal shift, oil-price stress 
+testing, demand management 
+and industrial energy 
+productivity.  Renewables, batteries, pumped 
+hydro, EVs, biofuels, CBG, green 
+hydrogen, SAF, nuclear, 
+biorefineries and circular 
+carbon. AI-native governance, 
+exponential companies, 10X 
+R&D, global factories, talent 
+power, low-cost firm green 
+power and Sustainable 
+Abundance.  
+The doctrine in policy language 
+ Energy security is not the opposite of climate transition; it is accelerated by a well-designed transition. 
+ Imported oil must be managed as a strategic risk, not merely as a commodity input. 
+ Every avoided barrel is a foreign-exchange saving, a geopolitical hedge and a pollution reduction. 
+ India must not choose between domestic manufacturing and global manufacturing; it must use both to 
+strengthen national capability. 
+ AI must be deployed as public infrastructure, but governed with human judgement, accountability and trust. 
+ Public assets must be recycled transparently into future capability; they must not be liquidated casually or 
+used to fund routine expenditure. 
+6. The Government of India Agenda: Twelve National Missions 
+The proposed missions are designed for inter-ministerial execution and federal participation. Each 
+mission should have a Cabinet-level owner, a 100-day dashboard, a 3-year execution plan, state-level 
+counterparts, and measurable KPIs. 
+Mission 1: National Energy and Geoeconomic Resilience Council 
+ Establish a standing council to integrate energy, finance, commerce, shipping, external affairs, defence, 
+agriculture, MSME and state perspectives. 
+ Maintain 30/90/180/365-day dashboards on crude, LNG, fertiliser, tankers, war-risk premia, OMC stress and 
+MSME working capital. 
+ Run quarterly national scenario exercises covering Hormuz, Bab el-Mandeb, Suez, Malacca, South China Sea 
+and critical minerals. 
+Mission 2: India-Fujairah and Global Energy Optionality Corridor 
+ Negotiate long-term crude/product storage rights and priority emergency lifting clauses in Fujairah and other 
+trusted nodes. 
+ Create digital visibility for Indian cargoes and an emergency maritime protocol with Gulf partners. 
+ Treat Fujairah, Oman, Saudi Red Sea routes, Singapore and Rotterdam as part of a broader energy optionality 
+portfolio. 
+Mission 3: National Strategic Storage 2.0 
+ Expand domestic strategic petroleum reserves and integrate them with commercial inventories and overseas 
+contracted storage. 
+ Develop a transparent trigger framework for drawdown, rotation and replenishment. 
+ Explore product reserves for diesel, aviation fuel and LPG-like vulnerabilities, alongside crude. 
+Mission 4: Oil/LNG Stress-Test Framework for Boards and Banks 
+ Mandate PSUs and large listed energy-exposed companies to stress-test Brent, LNG, freight, insurance and 
+exchange rates. 
+ Create simplified sector templates for airlines, logistics, chemicals, fertilisers, paints, tyres, ceramics, 
+packaged foods and exporters. 
+ Ask banks to integrate energy-price vulnerability into credit monitoring for MSME clusters. India Beyond Constraint | White Paper for Government of India  
+Page 8 of 13 
+ Mission 5: National Future Fund through Asset Recycling 
+ Use the Rs. 10 lakh crore 2025-30 asset monetisation plan as the first stage of a larger asset recycling 
+doctrine. [5] 
+ Ring-fence proceeds for strategic reserves, firm green power, AI compute, R&D, critical minerals, 
+semiconductors, defence tech, skilling, biorefineries and ports/logistics. 
+ Publish a citizen dashboard showing asset category, valuation, proceeds, deployment and measurable 
+outcomes. 
+Mission 6: Disinvestment with Dharma 
+ Classify public assets into sovereign, public-purpose, commercial and dormant categories. 
+ Use independent valuations, conflict-of-interest rules, CAG/parliamentary oversight and public outcome 
+tracking. 
+ Ensure proceeds fund debt reduction or future-capability creation, not subsidies or routine expenditure. 
+Mission 7: 10X R&D and Commercialisation Mission 
+ Raise national R&D ambition through public-private-research compacts and outcome-linked funding. 
+ Prioritise energy storage, applied AI, semiconductors, power electronics, green hydrogen, biofuels, robotics, 
+cybersecurity, materials, defence and agri-tech. 
+ Create national commercialization corridors connecting laboratories, PSUs, large companies, startups and 
+global markets. 
+Mission 8: AI as India’s Operating System 
+ Build multilingual public AI assistants for citizens, farmers, MSMEs and students. 
+ Deploy AI-native governance in procurement, tax, welfare, courts, land records, health triage, crop risk, 
+municipal services and energy demand. 
+ Create safe and trusted AI guardrails, data quality standards, model audit protocols, cyber resilience and 
+human accountability. 
+Mission 9: PSU 2035 Transformation Balance Sheets 
+ Require major PSUs to publish forward-looking 2035 transition balance sheets showing stranded-asset 
+exposure, future-capability capex, AI productivity, carbon intensity and workforce transition. 
+ Encourage ONGC, IOCL, BPCL, HPCL, GAIL, NTPC, SAIL, BHEL, Coal India, Railways-linked entities and 
+financial PSUs to define their exponential roles. 
+ Create PSU-startup sandboxes with public-purpose guardrails and outcome-based procurement. 
+Mission 10: MSME AI Stack and MSME Energy Shield 
+ Build an MSME AI Stack for compliance, invoices, exports, design, quality, energy audits, credit and legal 
+assistance. 
+ Create cluster-level renewable power aggregation, shared battery storage, green working capital and energy-
+efficiency vouchers. 
+ Use digital platforms to connect MSMEs to global buyers, standards, logistics and export documentation. 
+Mission 11: Firm Green Power and Mobility Transformation 
+ Move from renewable capacity to 24x7 firm green power using solar, wind, storage, pumped hydro, 
+transmission, demand response and AI forecasting. 
+ Electrify high-utilisation fleets first: buses, two-wheelers, three-wheelers, delivery fleets, taxis, municipal 
+vehicles, ports, mines, airports and industrial campuses. 
+ Pilot practical autonomous EV mobility in controlled environments before mixed-road deployment. India Beyond Constraint | White Paper for Government of India  
+Page 9 of 13 
+ Mission 12: District Biorefineries and National Transition Skill Stack 
+ Create district feedstock maps for ethanol, CBG, biochar, SAF feedstock, organic fertiliser, green chemicals 
+and circular materials. 
+ Establish safeguards: no food insecurity, no groundwater abuse, no monoculture distortion and no 
+unscientific residue extraction. 
+ Align ITIs, engineering colleges, agriculture universities and skill institutions with 2035 jobs: solar, EVs, 
+batteries, hydrogen, biogas, robotics, AI auditing and cyber resilience. 
+7. State Governments as the Execution Engine 
+States will determine whether the national doctrine becomes lived reality. Each state should prepare a State 
+Geopolitical Resilience and Exponential Growth Plan within six months, aligned to local resource 
+endowments and industrial clusters. 
+State responsibility  Recommended action  Metric 
+Energy resilience  Distributed solar, feeder solarisation, 
+storage, EV public transport and state-level 
+demand response  Share of firm green power and fuel savings  
+MSME clusters Shared AI tools, testing labs, renewable 
+procurement, digital export desks and green 
+finance Cluster productivity and export growth  
+Biorefineries  District feedstock maps and state 
+biofuel/CBG facilitation cells  Waste converted to fuel/fertiliser  
+Talent Skill universities and ITI upgrades for solar, 
+EV, battery, hydrogen, AI and biogas jobs  Certified transition workforce  
+Ease of execution  AI-enabled single -window approvals and 
+deemed approvals where safe  Approval time and compliance burden 
+reduction 
+8. PSUs as Transformation Platforms 
+The PSU of 2035 will not be judged by what it protected, but by what it transformed. PSUs have national 
+trust, capital, assets, engineering depth and execution capacity. The dialogue urged PSUs to move from 
+custodians of legacy assets to architects of future capacity. [11] 
+ Oil and gas PSUs should use today’s hydrocarbon cash flows to build tomorrow’s green molecules, EV 
+charging, CBG, SAF, green hydrogen, carbon management and digital energy platforms. 
+ Power PSUs should lead firm green power, storage, grid services and industrial decarbonisation. 
+ Steel, engineering and mining PSUs should localise critical materials, electrical steel, equipment, robotics 
+and transition minerals. 
+ Financial PSUs should create blended finance, green guarantees, MSME transition credit and climate-risk 
+underwriting. 
+9. Large Companies and MSMEs: From Fragility to Exponentiality 
+9.1 Large companies 
+Every large Indian company should treat energy volatility, AI disruption, global manufacturing and R&D as 
+board agenda items, not functional initiatives. The board should monitor AI adoption, R&D intensity, global 
+footprint, energy security, carbon transition, IP creation, cyber resilience, supplier transformation and talent 
+reinvention. India Beyond Constraint | White Paper for Government of India  
+Page 10 of 13 
+ 9.2 MSMEs 
+The MSME of the future should become a micro-multinational. The Economic Survey 2025-26 highlighted 
+the role of MSMEs in India’s industrial economy, including contributions to manufacturing, exports and GDP. 
+[10] MSMEs cannot individually build world-class AI, energy and export infrastructure; they need common 
+stacks and cluster services. 
+ MSME AI Stack: GST, contracts, exports, design, quality, invoices, energy, finance, legal and language 
+assistance. 
+ MSME Energy Shield: renewable aggregation, energy audit vouchers, efficiency financing, shared storage and 
+green logistics. 
+ MSME Export Engine: digital traceability, testing labs, standards support, quality certification and global buyer 
+discovery. 
+10. Implementation Architecture: 100 Days to 2035 
+Timeframe Government action  Industry/PSU action  Citizen/MSME/State action  
+First 100 days  Constitute Council; dashboard 
+architecture; Fujairah talks; 
+oil/LNG stress templates; 
+National Future Fund design  Board stress tests; identify 
+oil/LNG/freight exposure; AI and 
+energy transition pilots  State resilience plan templates; 
+MSME cluster mapping  
+Year 1 Launch chokepoint dashboard; 
+overseas storage framework; AI 
+public assistant pilots; asset 
+monetisation dashboard  2035 transition balance sheets 
+for PSUs; AI copilots; renewable 
+procurement  MSME AI Stack pilots; district 
+biorefinery maps; skill 
+curriculum updates  
+Years 2-3 Scale firm green power markets; 
+battery and pumped hydro 
+acceleration; R&D consortia; 
+public procurement reforms  Global manufacturing 
+portfolios; deep R&D; electrified 
+logistics Cluster-level renewables; EV 
+fleet transition; biogas/CBG 
+entrepreneurs  
+By 2030 Visible reduction in oil intensity; 
+24x7 green industrial power; 
+mature AI governance; scaled 
+biorefineries  Exponential enterprises with 
+global footprints, low-carbon 
+operations and AI-native 
+processes Export-ready MSMEs; large 
+transition workforce  
+By 2035 India demonstrates 
+development without oil fragility  Indian firms own global 
+platforms, factories, IP and 
+energy resilience  Young India becomes world’s 
+largest transition workforce  
+11. Dashboard, KPIs and Board/Government Risk Register 
+Dashboard area  Illustrative KPIs  
+Energy security  Days of strategic and commercial reserves; source diversification; 
+cargo visibility; alternative route capacity  
+Oil displacement  EV kilometres, ethanol/CBG/biofuel substitution, rail/coastal 
+logistics shift, energy productivity  
+Firm green power  MW/GW of 24x7 contracted green power, storage hours, 
+transmission readiness, DISCOM payment discipline  
+AI-native governance  Processes made AI -native, citizen response time, procurement risk 
+flags, data quality score, AI audit compliance  
+Asset recycling  Value monetised, proceeds deployed, public dashboard updates, 
+outcome created, debt reduced  
+R&D R&D spend, patents commercialised, products shipped, deep -tech 
+startups scaled, PSU-industry-university consortia  
+MSMEs MSME AI usage, energy -cost savings, exports, formalisation, credit 
+quality, cluster productivity  
+Talent Certified youth in transition jobs, placement rates, wage uplift, India Beyond Constraint | White Paper for Government of India  
+Page 11 of 13 
+ women participation, district coverage  
+12. Draft Government Resolution 
+Suggested language for consideration:  
+ Government of India recognises that energy security, geopolitical resilience, AI adoption, clean energy 
+transition, public asset productivity, R&D intensity, MSME competitiveness and youth skilling are 
+mutually reinforcing pillars of Viksit Bharat. 
+ Government of India shall establish a National Energy and Geoeconomic Resilience Council to monitor 
+risks, coordinate inter-ministerial action and supervise mission-mode execution. 
+ Government of India shall pursue a layered energy security architecture combining domestic strategic 
+reserves, commercial inventories, overseas trusted storage, route optionality, maritime security, demand 
+response and accelerated oil displacement. 
+ Government of India shall create a transparent National Future Fund framework to ring-fence proceeds 
+from asset monetisation and disinvestment for future-building priorities and/or debt reduction. 
+ Government of India shall advance AI-native governance and AI public utilities with strict guardrails for 
+data quality, privacy, cyber security, accountability, inclusion and human oversight. 
+ Government of India shall support PSUs, large enterprises and MSMEs to become future-ready through 
+transition balance sheets, energy-risk disclosure, R&D commercialisation, AI adoption, green finance and 
+skill development. 
+ Government of India shall encourage all States to prepare State Geopolitical Resilience and Exponential 
+Growth Plans aligned with this national architecture. 
+Appendix A. Day-wise Synthesis of Posts and Public Comments 
+Day Theme Comments -to-policy synthesis  
+1 India Beyond Constraint  Mindset shift; dependence must trigger 
+innovation; fragmented execution is the real 
+constraint. 
+2 Secure Oil. Shrink Oil. Transcend Oil.  Transport electrification, grid 
+modernisation, hydrogen, CBG and state-
+led execution received strong support.  
+3 Fujairah Support for portfolio overseas reserves, 
+berthing clauses, digital cargo visibility and 
+India-Gulf co-building.  
+4 Chokepoints  Boards should monitor maritime risk; 
+INSTC, route diversification and ministry-
+industry coordination were emphasised.  
+5 Oil Price as Board Risk  Oil stress tests should enter risk registers, 
+especially for MSME-heavy sectors and 
+importers. 
+6 10X Asset Monetisation  Asset recycling must be ring -fenced, 
+transparent and used for productive future 
+capacity. 
+7 Disinvestment with Dharma  Purpose, process and proceeds should be 
+separated; strategic assets need sovereign 
+clarity. 
+8 10X R&D Spend is necessary but outcomes matter: 
+patents, shipped products, 
+commercialisation and patient capital.  
+9 Global Factory Owners  Make by India everywhere should 
+strengthen domestic suppliers, skills, 
+technology and foreign earnings.  
+10 Gulf as Industrial Extension  Green hydrogen, AI cloud, data India Beyond Constraint | White Paper for Government of India  
+Page 12 of 13 
+ infrastructure, logistics and giga -projects 
+emerged as priorities.  
+11 China Realism Doctrine  De-risk where sovereignty is touched; learn 
+scale, tooling, quality and execution; avoid 
+emotion. 
+12 AI as Operating System  AI must be inclusive, multilingual, trusted, 
+cyber-secure and available to ordinary 
+citizens and MSMEs.  
+13 AI-native Government  AI can reduce delay and leakage if design, 
+data, accountability and correction loops 
+are strong. 
+14 PSUs as Platforms  PSUs must move from asset protection to 
+transformation outcomes and 2035 
+transition balance sheets.  
+15 Large Companies Exponential  Companies must compound capability 
+faster than complexity and put 
+transformation at board level.  
+16 MSME Micro -Multinationals  MSME AI Stack and Energy Shield received 
+strong support; common infrastructure is 
+vital. 
+17 Firm Green Power  Storage, pumped hydro, transmission, 
+demand response and DISCOM reform are 
+decisive. 
+18 EVs and Autonomous Mobility  Controlled environments and high -
+utilisation fleets should be prioritised; silos 
+must be broken.  
+19 Biorefineries  Biofuel regulator, feedstock safeguards and 
+wastewater/dairy effluent biorefineries were 
+suggested. 
+20 Youngest Talent Nation  Training quality, jobs, merit, work ethic and 
+youth as a civilisational force are central.  
+21 Closing Post  India Beyond Constraint should become a 
+national operating system, not a slogan.  
+Appendix B. References 
+[1] IEA, Strait of Hormuz factsheet, updated February 2026. https://www.iea.org/about/oil-security-and-
+emergency-response/strait-of-hormuz  
+[2] Indian Strategic Petroleum Reserves Limited, About Us, last updated 1 June 2026. 
+https://www.isprlindia.com/aboutus.asp  
+[3] MNRE, Physical Achievements: Programme/Scheme-wise cumulative physical progress as on 30 
+April 2026. https://mnre.gov.in/en/physical-progress/  
+[4] Prime Minister of India, Cabinet approves IndiaAI Mission, 7 March 2024. 
+https://www.pmindia.gov.in/en/news_updates/cabinet-approves-ambitious-indiaai-mission-to-strengthen-
+the-ai-innovation-ecosystem/  
+[5] PIB, Union Budget 2025-26 Asset Monetisation Plan 2025-30, 1 February 2025. 
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098376  
+[6] MNRE, National Green Hydrogen Mission. https://mnre.gov.in/en/national-green-hydrogen-mission/  
+[7] PIB, Government speeds up ethanol blending, 11 August 2025. 
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2155110  
+[8] MoPNG, Compressed Bio Gas and SATAT initiative. https://mopng.gov.in/en/refining/compressed-bio-
+gas India Beyond Constraint | White Paper for Government of India  
+Page 13 of 13 
+ [9] Times of India / IESA based on Vahan data, India EV sales in 2025. 
+https://timesofindia.indiatimes.com/business/india-business/ev-adoptions-gathers-pace-in-2025-sales-
+hit-2-3-million-units-up-maharashtra-lead-sales/articleshow/126462964.cms  
+[10] Economic Times, Economic Survey 2025-26 highlights MSME contribution. 
+https://m.economictimes.com/small-biz/sme-sector/msme-sectors-role-critical-in-enabling-effective-
+supply-chain-participation-eco-survey-2025-26/articleshow/127765473.cms  
+[11] Source material supplied by the author: 20-day LinkedIn campaign posts and comments, 13 May to 
+2 June 2026. 20 DAYS POSTS.docx 

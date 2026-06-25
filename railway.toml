@@ -1,0 +1,29 @@
+# railway.toml — Railway deployment config
+#
+# ─────────────────────────────────────────────────────────────────────────────
+# REQUIRED MANUAL SETUP IN THE RAILWAY DASHBOARD (cannot be done from this file):
+#
+# 1. VOLUME (data persistence — without this, the interview is wiped on every
+#    redeploy/restart):
+#      • Create a Volume on this service.
+#      • Set its Mount Path to:  /data
+#
+# 2. ENVIRONMENT VARIABLES (Service → Variables):
+#      • DATA_DIR     = /data          (so biography.db is written to the volume)
+#      • ACCESS_CODE  = <your-secret>  (unlock code; without it the app is public)
+#      • GROQ_API_KEY = <your-key>
+#
+# Keep numReplicas = 1: the Volume attaches to a single replica, and the sql.js
+# whole-file write model would corrupt the DB if two replicas wrote concurrently.
+# ─────────────────────────────────────────────────────────────────────────────
+
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "node server.js"
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 3
+
+[environments.production.deploy]
+numReplicas = 1

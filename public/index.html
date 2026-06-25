@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ms. Elizabeth (Betsy) Orlando — A Life in Service of the World</title>
+  <meta name="description" content="A private, AI-powered biographical interview created for Ms. Elizabeth (Betsy) Orlando — capturing three decades of US diplomacy, responsible sourcing leadership, and a commitment to making global supply chains work for people." />
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="apple-touch-icon" href="/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ── WELCOME VIEW ─────────────────────────────────────────────────────── -->
+  <div id="view-welcome" class="view active">
+    <div class="welcome-bg">
+      <div class="welcome-orb orb-1"></div>
+      <div class="welcome-orb orb-2"></div>
+      <div class="welcome-orb orb-3"></div>
+      <div class="welcome-hero-texture"></div>
+    </div>
+
+    <div class="welcome-split">
+
+      <!-- LEFT PANEL: Portrait + bio card -->
+      <div class="welcome-left">
+        <div class="portrait-container">
+          <div class="portrait-ring"></div>
+          <img src="/portrait.png" alt="Ms. Elizabeth (Betsy) Orlando" class="portrait-img" />
+          <div class="portrait-crest">
+            <img src="/crest.png" alt="crest" />
+          </div>
+        </div>
+        <div class="subject-nameplate">
+          <div class="nameplate-name" id="cfg-nameplate-name">Elizabeth (Betsy) Orlando</div>
+          <div class="nameplate-title" id="cfg-nameplate-title">Foreign Service Officer · Responsible Sourcing Specialist · Diplomat</div>
+        </div>
+
+        <!-- Animated milestone timeline -->
+        <div class="milestone-strip" id="cfg-timeline">
+          <div class="milestone" style="--d:0s">
+            <div class="milestone-year">1996</div>
+            <div class="milestone-dot"></div>
+            <div class="milestone-label">Post-doc at MIT</div>
+          </div>
+          <div class="milestone" style="--d:0.15s">
+            <div class="milestone-year">2017</div>
+            <div class="milestone-dot"></div>
+            <div class="milestone-label">Co-founded the JDI</div>
+          </div>
+          <div class="milestone" style="--d:0.3s">
+            <div class="milestone-year">2025</div>
+            <div class="milestone-dot"></div>
+            <div class="milestone-label">India–US Roundtable</div>
+          </div>
+          <div class="milestone" style="--d:0.45s">
+            <div class="milestone-year">Now</div>
+            <div class="milestone-dot"></div>
+            <div class="milestone-label">Open to new chapters</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- RIGHT PANEL: CTA + features -->
+      <div class="welcome-right">
+        <div class="welcome-content">
+          <div class="logo">
+            <div class="logo-icon">✦</div>
+            <span id="cfg-logo-text">Betsy Orlando</span>
+          </div>
+          <h1 class="welcome-title" id="cfg-title">A life of<br/><em>diplomacy &amp; purpose.</em></h1>
+          <p class="welcome-subtitle" id="cfg-subtitle">A private biographical interview created especially for Ms. Elizabeth (Betsy) Orlando — to capture three decades of diplomacy, responsible sourcing leadership, and a lifelong commitment to making global supply chains work for people.</p>
+
+          <div class="welcome-actions">
+            <button id="btn-new-subject" class="btn btn-primary btn-lg">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg>
+              Begin the interview
+            </button>
+            <button id="btn-continue" class="btn btn-ghost btn-lg">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 8v4l3 3"/><circle cx="12" cy="12" r="9"/></svg>
+              Resume where we left off
+            </button>
+          </div>
+
+          <!-- Bio fact cards (populated from /api/config) -->
+          <div class="bio-facts" id="cfg-bio-facts">
+            <div class="bio-fact-card">
+              <div class="bio-fact-icon">🌐</div>
+              <div class="bio-fact-body">
+                <div class="bio-fact-label">Career</div>
+                <div class="bio-fact-value">US Foreign Service Officer, 30+ years</div>
+              </div>
+            </div>
+            <div class="bio-fact-card">
+              <div class="bio-fact-icon">💎</div>
+              <div class="bio-fact-body">
+                <div class="bio-fact-label">Signature Initiative</div>
+                <div class="bio-fact-value">Jewelry Development Impact Index (JDI)</div>
+              </div>
+            </div>
+            <div class="bio-fact-card">
+              <div class="bio-fact-icon">⚖️</div>
+              <div class="bio-fact-body">
+                <div class="bio-fact-label">Focus Areas</div>
+                <div class="bio-fact-value">Conflict diamonds · Conflict minerals · ASM</div>
+              </div>
+            </div>
+            <div class="bio-fact-card">
+              <div class="bio-fact-icon">🔬</div>
+              <div class="bio-fact-body">
+                <div class="bio-fact-label">Education</div>
+                <div class="bio-fact-value">Post-doctoral researcher, MIT (1996)</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Pull quote -->
+          <div class="welcome-quote">
+            <div class="quote-mark">"</div>
+            <div class="quote-text" id="cfg-quote">A US Foreign Service Officer, Policy Innovator, Supply Chain Champion, Mentor, and Citizen of the World.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  <!-- ── NEW SUBJECT MODAL ──────────────────────────────────────────────────── -->
+  <div id="modal-new-subject" class="modal-overlay hidden">
+    <div class="modal">
+      <button class="modal-close" id="btn-close-new-subject">×</button>
+      <div class="modal-header">
+        <div class="modal-icon">✦</div>
+        <h2>Ready to begin?</h2>
+        <p>Enter <strong>Ms. Elizabeth Orlando</strong> as the subject's name, or confirm any variation you prefer — then we'll start the interview.</p>
+      </div>
+      <div class="modal-body">
+        <div class="input-group">
+          <label for="input-subject-name">Full name</label>
+          <input type="text" id="input-subject-name" placeholder="e.g. Elizabeth Orlando" value="Elizabeth Orlando" autocomplete="off" />
+        </div>
+        <button id="btn-create-subject" class="btn btn-primary btn-full">
+          Begin the interview
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── SUBJECT LIST MODAL ─────────────────────────────────────────────────── -->
+  <div id="modal-subject-list" class="modal-overlay hidden">
+    <div class="modal modal-wide">
+      <button class="modal-close" id="btn-close-subject-list">×</button>
+      <div class="modal-header">
+        <div class="modal-icon">📚</div>
+        <h2>Existing Biographies</h2>
+        <p>Select a subject to continue their interview or view their biography.</p>
+      </div>
+      <div class="modal-body">
+        <div id="subject-list-container">
+          <div class="loading-state">
+            <div class="spinner"></div>
+            <span>Loading subjects...</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── INTERVIEW VIEW ─────────────────────────────────────────────────────── -->
+  <div id="view-interview" class="view hidden">
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <button id="btn-back-to-welcome" class="btn-icon" title="Home">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </button>
+        <div class="sidebar-logo">✦</div>
+        <button id="btn-generate-biography" class="btn btn-amber btn-sm" title="Generate biography">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+          Write
+        </button>
+      </div>
+
+      <div class="sidebar-subject">
+        <div class="subject-avatar" id="subject-avatar-sidebar">M</div>
+        <div class="subject-info">
+          <div class="subject-name" id="subject-name-sidebar">Subject</div>
+          <div class="subject-session" id="subject-session-sidebar">Session 1</div>
+        </div>
+      </div>
+
+      <!-- Coverage Ring -->
+      <div class="coverage-section">
+        <div class="coverage-ring-container">
+          <svg class="coverage-ring" width="100" height="100" viewBox="0 0 100 100">
+            <circle class="ring-bg" cx="50" cy="50" r="40" />
+            <circle class="ring-fill" id="ring-fill" cx="50" cy="50" r="40"
+              stroke-dasharray="251.2"
+              stroke-dashoffset="251.2"
+              transform="rotate(-90 50 50)" />
+          </svg>
+          <div class="coverage-label">
+            <span class="coverage-percent" id="coverage-percent">0%</span>
+            <span class="coverage-text">covered</span>
+          </div>
+        </div>
+        <div class="coverage-stats" id="coverage-stats">
+          <div class="stat"><span class="stat-dot covered"></span><span id="stat-covered">0</span> covered</div>
+          <div class="stat"><span class="stat-dot partial"></span><span id="stat-partial">0</span> partial</div>
+          <div class="stat"><span class="stat-dot untouched"></span><span id="stat-untouched">80</span> untouched</div>
+        </div>
+      </div>
+
+      <!-- Sections progress -->
+      <div class="sections-progress">
+        <div class="sections-label">Sections</div>
+        <div class="section-bars" id="section-bars">
+          <div class="section-bar-item">
+            <div class="section-bar-label">Early Life</div>
+            <div class="section-bar-track"><div class="section-bar-fill" id="bar-1" style="width:0%"></div></div>
+          </div>
+          <div class="section-bar-item">
+            <div class="section-bar-label">Career</div>
+            <div class="section-bar-track"><div class="section-bar-fill" id="bar-2" style="width:0%"></div></div>
+          </div>
+          <div class="section-bar-item">
+            <div class="section-bar-label">Relationships</div>
+            <div class="section-bar-track"><div class="section-bar-fill" id="bar-3" style="width:0%"></div></div>
+          </div>
+          <div class="section-bar-item">
+            <div class="section-bar-label">Turning Points</div>
+            <div class="section-bar-track"><div class="section-bar-fill" id="bar-4" style="width:0%"></div></div>
+          </div>
+          <div class="section-bar-item">
+            <div class="section-bar-label">Legacy</div>
+            <div class="section-bar-track"><div class="section-bar-fill" id="bar-5" style="width:0%"></div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-footer">
+        <div class="move-indicator hidden" id="move-indicator">
+          <span class="move-badge" id="move-badge">deepening</span>
+        </div>
+        <button id="btn-open-upload" class="btn btn-upload-sidebar" title="Upload a conversation or voice note">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+          Upload conversation
+        </button>
+      </div>
+    </aside>
+
+    <!-- Main chat -->
+    <main class="chat-main">
+      <div class="chat-messages" id="chat-messages">
+        <!-- Messages rendered here -->
+      </div>
+
+      <div class="chat-input-area" id="chat-input-area">
+        <div class="chat-input-container">
+          <div class="input-wrapper">
+            <textarea
+              id="chat-input"
+              placeholder="Share your story..."
+              rows="1"
+              maxlength="4000"
+            ></textarea>
+            <div class="input-actions">
+              <button id="btn-voice" class="btn-icon btn-voice-toggle" title="Voice input">
+                <svg id="icon-mic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
+                  <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+                  <line x1="12" y1="19" x2="12" y2="23"/>
+                  <line x1="8" y1="23" x2="16" y2="23"/>
+                </svg>
+                <svg id="icon-mic-active" class="hidden pulse" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
+                  <path d="M19 10v2a7 7 0 0 1-14 0v-2" fill="none" stroke="currentColor" stroke-width="2"/>
+                  <line x1="12" y1="19" x2="12" y2="23" stroke="currentColor" stroke-width="2"/>
+                  <line x1="8" y1="23" x2="16" y2="23" stroke="currentColor" stroke-width="2"/>
+                </svg>
+              </button>
+              <button id="btn-send" class="btn-send" title="Send (Enter)">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="22" y1="2" x2="11" y2="13"/>
+                  <polygon points="22 2 15 22 11 13 2 9 22 2"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="input-hint">Press <kbd>Enter</kbd> to send · <kbd>Shift+Enter</kbd> for new line · <kbd>M</kbd> for voice</div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- ── UPLOAD MODAL ─────────────────────────────────────────────────────── -->
+  <div id="modal-upload" class="modal-overlay hidden">
+    <div class="modal modal-upload-inner">
+      <button class="modal-close" id="btn-close-upload">×</button>
+
+      <div class="modal-header">
+        <div class="modal-icon">&#128229;</div>
+        <h2>Upload a Conversation or Recording</h2>
+        <p>Paste text, upload a file, or record right now &mdash; the agent will extract biographical information and update your coverage map.</p>
+      </div>
+
+      <div class="modal-body">
+        <!-- Tab row -->
+        <div class="upload-tabs" id="upload-tabs">
+          <button class="upload-tab active" id="tab-text" data-tab="text">&#128196; Paste Text</button>
+          <button class="upload-tab" id="tab-file" data-tab="file">&#128190; Upload File</button>
+          <button class="upload-tab" id="tab-record" data-tab="record">&#127908; Record Now</button>
+        </div>
+
+        <!-- Tab: Paste text -->
+        <div class="upload-panel active" id="panel-text">
+          <div class="input-group">
+            <label for="upload-text-input">Paste any conversation, WhatsApp export, interview transcript, or notes</label>
+            <textarea id="upload-text-input" class="upload-textarea" placeholder="[12/06/2024, 14:32] Grandma: I was born in a small village near Jaipur in 1942...
+
+Or just paste any notes, interview transcript, or freeform biographical text."></textarea>
+          </div>
+          <button id="btn-submit-text" class="btn btn-primary btn-full">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            Extract biographical data
+          </button>
+        </div>
+
+        <!-- Tab: Upload file -->
+        <div class="upload-panel" id="panel-file">
+          <div class="upload-dropzone" id="upload-dropzone">
+            <input type="file" id="upload-file-input" accept=".txt,.json,.csv,audio/*" class="upload-file-hidden" />
+            <div class="dropzone-content" id="dropzone-content">
+              <div class="dropzone-icon">
+                <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+              </div>
+              <div class="dropzone-text">Drop a file here or <span class="dropzone-link">browse</span></div>
+              <div class="dropzone-hint">Text: .txt .json .csv &nbsp;&bull;&nbsp; Audio: .mp3 .m4a .ogg .wav .webm .flac</div>
+            </div>
+          </div>
+          <div id="file-selected-name" class="file-selected-name hidden"></div>
+          <button id="btn-submit-file" class="btn btn-primary btn-full" disabled>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            Process file
+          </button>
+          <p class="upload-privacy-notice">&#128274; Text and audio are sent to Groq for analysis. Do not upload recordings without the speaker's consent.</p>
+        </div>
+
+        <!-- Tab: Record now -->
+        <div class="upload-panel" id="panel-record">
+          <div class="record-ui">
+            <div class="record-visualizer" id="record-visualizer">
+              <div class="record-wave" id="record-wave">
+                <span></span><span></span><span></span><span></span><span></span>
+                <span></span><span></span><span></span><span></span><span></span>
+              </div>
+              <div class="record-idle-icon" id="record-idle-icon">
+                <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/><line x1="8" y1="23" x2="16" y2="23"/></svg>
+              </div>
+            </div>
+            <div class="record-timer" id="record-timer">0:00</div>
+            <div class="record-status" id="record-status">Click to start recording a memory</div>
+            <div class="record-controls">
+              <button id="btn-record-toggle" class="btn btn-record">
+                <svg id="icon-record-start" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="8"/></svg>
+                <svg id="icon-record-stop" class="hidden" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="6" width="12" height="12" rx="2"/></svg>
+                <span id="record-btn-label">Start Recording</span>
+              </button>
+              <button id="btn-submit-recording" class="btn btn-primary" disabled>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+                Use recording
+              </button>
+            </div>
+          </div>
+          <p class="upload-privacy-notice">&#128274; Your recording is sent to Groq for transcription. Do not record others without their consent.</p>
+        </div>
+
+        <!-- Loading state (shared across tabs) -->
+        <div class="upload-loading hidden" id="upload-loading">
+          <div class="upload-spinner"></div>
+          <div class="upload-loading-text" id="upload-loading-text">Processing...</div>
+        </div>
+
+        <!-- Results panel (shown after successful upload) -->
+        <div class="upload-results hidden" id="upload-results">
+          <div class="upload-results-header">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+            Extracted successfully
+          </div>
+          <div class="upload-results-summary" id="upload-results-summary"></div>
+          <div class="upload-results-stats" id="upload-results-stats"></div>
+          <details class="upload-transcript-details" id="upload-transcript-details">
+            <summary>View transcript</summary>
+            <pre class="upload-transcript-pre" id="upload-transcript-text"></pre>
+          </details>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── GENERATING OVERLAY ─────────────────────────────────────────────────── -->
+  <div id="overlay-generating" class="fullscreen-overlay hidden">
+    <div class="generating-content">
+      <div class="generating-animation">
+        <div class="gen-dot"></div>
+        <div class="gen-dot"></div>
+        <div class="gen-dot"></div>
+      </div>
+      <h2 id="generating-title">Writing your biography...</h2>
+      <p id="generating-subtitle">Reading all your answers, finding the throughline, shaping the narrative.</p>
+      <div class="generating-steps">
+        <div class="gen-step" id="gen-step-1">✓ Reading transcript</div>
+        <div class="gen-step active" id="gen-step-2">◎ Finding the throughline</div>
+        <div class="gen-step" id="gen-step-3">○ Drafting chapters</div>
+        <div class="gen-step" id="gen-step-4">○ Polishing prose</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── BIOGRAPHY VIEW ─────────────────────────────────────────────────────── -->
+  <div id="view-biography" class="view hidden">
+    <div class="bio-topbar">
+      <button id="btn-back-to-interview" class="btn-icon" title="Back to interview">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+      </button>
+      <div class="bio-topbar-title">
+        <span class="logo-icon-sm">✦</span>
+        <span id="bio-subject-name-header">Biography</span>
+      </div>
+      <div class="bio-topbar-actions">
+        <button id="btn-print-bio" class="btn btn-ghost btn-sm">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
+          Print / PDF
+        </button>
+        <button id="btn-regenerate-bio" class="btn btn-ghost btn-sm">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+          Regenerate
+        </button>
+        <button id="btn-delete-bio" class="btn btn-ghost btn-sm btn-danger-ghost">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14H6L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/></svg>
+          Delete biography
+        </button>
+      </div>
+    </div>
+
+    <div class="bio-content-wrapper">
+      <div class="bio-content" id="bio-content">
+        <!-- Biography rendered here -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ── ERROR TOAST ────────────────────────────────────────────────────────── -->
+  <div id="toast-error" class="toast toast-error hidden">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+    <span id="toast-error-msg">An error occurred</span>
+  </div>
+
+  <!-- ── ACCESS / UNLOCK OVERLAY ─────────────────────────────────────────────── -->
+  <div id="overlay-unlock" class="fullscreen-overlay hidden">
+    <div class="unlock-card">
+      <div class="unlock-icon">🔒</div>
+      <h2 class="unlock-title">This interview is private</h2>
+      <p class="unlock-subtitle">Enter the access code to continue.</p>
+      <input type="password" id="unlock-input" class="unlock-input" placeholder="Access code" autocomplete="off" />
+      <button id="btn-unlock" class="btn btn-primary btn-full">Unlock</button>
+      <div id="unlock-error" class="unlock-error hidden">That code wasn't recognised. Please try again.</div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
